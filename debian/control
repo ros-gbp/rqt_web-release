@@ -1,0 +1,13 @@
+Source: ros-indigo-rqt-web
+Section: misc
+Priority: extra
+Maintainer: Dirk Thomas <dthomas@osrfoundation.org>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://wiki.ros.org/rqt_web
+Standards-Version: 3.9.2
+
+Package: ros-indigo-rqt-web
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, python-rospkg, ros-indigo-python-qt-binding (>= 0.2.19), ros-indigo-qt-gui, ros-indigo-rospy, ros-indigo-rqt-gui, ros-indigo-rqt-gui-py, ros-indigo-webkit-dependency
+Description: rqt_web is a simple web content viewer for rqt.
+ Users can show web content in Qt-based window by specifying its URL.
