@@ -1,3 +1,26 @@
+## rqt_web (noetic) - 0.4.9-1
+
+The packages in the `rqt_web` repository were released into the `noetic` distro by running `/usr/bin/bloom-release -r noetic -t noetic rqt_web` on `Wed, 11 Mar 2020 23:00:40 -0000`
+
+The `rqt_web` package was released.
+
+Version of package(s) in repository `rqt_web`:
+
+- upstream repository: https://github.com/ros-visualization/rqt_web.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.4.9-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## rqt_web (melodic) - 0.4.8-0
 
 The packages in the `rqt_web` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic rqt_web` on `Wed, 21 Mar 2018 18:55:54 -0000`
