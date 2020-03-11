@@ -1,0 +1,255 @@
+ros-noetic-rqt-web (0.4.9-1focal) focal; urgency=high
+
+  * bump CMake minimum version to avoid CMP0048 warning
+  * add Python 3 conditional dependencies (#2 <https://github.com/ros-visualization/rqt_web/issues/2>)
+  * autopep8 (#1 <https://github.com/ros-visualization/rqt_web/issues/1>)
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Wed, 11 Mar 2020 07:00:00 -0000
+
+ros-noetic-rqt-web (0.4.8-1focal) focal; urgency=high
+
+  * add missing WebKit dependency (#449 <https://github.com/ros-visualization/rqt_common_plugins/pull/449>)
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Mon, 24 Apr 2017 07:00:00 -0000
+
+ros-noetic-rqt-web (0.4.7-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Thu, 02 Mar 2017 08:00:00 -0000
+
+ros-noetic-rqt-web (0.4.6-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Mon, 27 Feb 2017 08:00:00 -0000
+
+ros-noetic-rqt-web (0.4.5-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Fri, 03 Feb 2017 08:00:00 -0000
+
+ros-noetic-rqt-web (0.4.4-1focal) focal; urgency=high
+
+  * use Python 3 compatible syntax (#421 <https://github.com/ros-visualization/rqt_common_plugins/pull/421>)
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Tue, 24 Jan 2017 08:00:00 -0000
+
+ros-noetic-rqt-web (0.4.3-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Wed, 02 Nov 2016 07:00:00 -0000
+
+ros-noetic-rqt-web (0.4.2-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Mon, 19 Sep 2016 07:00:00 -0000
+
+ros-noetic-rqt-web (0.4.1-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Mon, 16 May 2016 07:00:00 -0000
+
+ros-noetic-rqt-web (0.4.0-1focal) focal; urgency=high
+
+  * Support Qt 5 (in Kinetic and higher) as well as Qt 4 (in Jade and earlier) (#359 <https://github.com/ros-visualization/rqt_common_plugins/pull/359>)
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Wed, 27 Apr 2016 07:00:00 -0000
+
+ros-noetic-rqt-web (0.3.13-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Tue, 08 Mar 2016 08:00:00 -0000
+
+ros-noetic-rqt-web (0.3.12-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Fri, 24 Jul 2015 07:00:00 -0000
+
+ros-noetic-rqt-web (0.3.11-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Thu, 30 Apr 2015 07:00:00 -0000
+
+ros-noetic-rqt-web (0.3.10-1focal) focal; urgency=high
+
+  * update plugin scripts to use full name to avoid future naming collisions
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Wed, 01 Oct 2014 07:00:00 -0000
+
+ros-noetic-rqt-web (0.3.9-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Mon, 18 Aug 2014 07:00:00 -0000
+
+ros-noetic-rqt-web (0.3.8-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Tue, 15 Jul 2014 07:00:00 -0000
+
+ros-noetic-rqt-web (0.3.7-1focal) focal; urgency=high
+
+  * export architecture_independent flag in package.xml (#254 <https://github.com/ros-visualization/rqt_common_plugins/issues/254>)
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Fri, 11 Jul 2014 07:00:00 -0000
+
+ros-noetic-rqt-web (0.3.6-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Mon, 02 Jun 2014 07:00:00 -0000
+
+ros-noetic-rqt-web (0.3.5-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Wed, 07 May 2014 07:00:00 -0000
+
+ros-noetic-rqt-web (0.3.4-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Tue, 28 Jan 2014 08:00:00 -0000
+
+ros-noetic-rqt-web (0.3.3-1focal) focal; urgency=high
+
+  * add groups for rqt plugins, renamed some plugins (#167 <https://github.com/ros-visualization/rqt_common_plugins/issues/167>)
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Wed, 08 Jan 2014 08:00:00 -0000
+
+ros-noetic-rqt-web (0.3.2-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Mon, 14 Oct 2013 07:00:00 -0000
+
+ros-noetic-rqt-web (0.3.1-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Wed, 09 Oct 2013 07:00:00 -0000
+
+ros-noetic-rqt-web (0.3.0-1focal) focal; urgency=high
+
+  * fix rendering of icons on OS X (ros-visualization/rqt#83 <https://github.com/ros-visualization/rqt/issues/83>)
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Wed, 28 Aug 2013 07:00:00 -0000
+
+ros-noetic-rqt-web (0.2.17-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Thu, 04 Jul 2013 07:00:00 -0000
+
+ros-noetic-rqt-web (0.2.16-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Tue, 09 Apr 2013 20:33:00 -0000
+
+ros-noetic-rqt-web (0.2.15-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Tue, 09 Apr 2013 07:02:00 -0000
+
+ros-noetic-rqt-web (0.2.14-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Thu, 14 Mar 2013 07:00:00 -0000
+
+ros-noetic-rqt-web (0.2.13-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Tue, 12 Mar 2013 05:14:00 -0000
+
+ros-noetic-rqt-web (0.2.12-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Mon, 11 Mar 2013 20:56:00 -0000
+
+ros-noetic-rqt-web (0.2.11-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Fri, 08 Mar 2013 08:00:00 -0000
+
+ros-noetic-rqt-web (0.2.10-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Tue, 22 Jan 2013 08:00:00 -0000
+
+ros-noetic-rqt-web (0.2.9-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Thu, 17 Jan 2013 08:00:00 -0000
+
+ros-noetic-rqt-web (0.2.8-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Fri, 11 Jan 2013 08:00:00 -0000
+
+ros-noetic-rqt-web (0.2.7-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Mon, 24 Dec 2012 08:00:00 -0000
+
+ros-noetic-rqt-web (0.2.6-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Sun, 23 Dec 2012 08:00:00 -0000
+
+ros-noetic-rqt-web (0.2.5-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Sat, 22 Dec 2012 03:11:00 -0000
+
+ros-noetic-rqt-web (0.2.4-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Fri, 21 Dec 2012 09:13:00 -0000
+
+ros-noetic-rqt-web (0.2.3-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Fri, 21 Dec 2012 08:24:00 -0000
+
+ros-noetic-rqt-web (0.2.2-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Fri, 21 Dec 2012 02:29:00 -0000
+
+ros-noetic-rqt-web (0.2.1-1focal) focal; urgency=high
+
+
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Fri, 21 Dec 2012 01:47:00 -0000
+
+ros-noetic-rqt-web (0.2.0-1focal) focal; urgency=high
+
+  * first release of this package into groovy
+
+ -- Dirk Thomas <dthomas@osrfoundation.org>  Fri, 21 Dec 2012 01:39:00 -0000
+
+
